@@ -13,8 +13,7 @@ const Heading = () => {
   return (
     <div className="max-w-3xl md:space-y-4">
       <h1 className="text-3xl sm:text-5xl md:text-6xl font-bold">
-        Your Ideas, Documents, & Plans. United. Welcome to
-        <span className="underline">Arfeelings</span>
+        Your Ideas, Documents, & Plans. United. Welcome to <span className="underline">Arfeelings</span>
       </h1>
       <h3 className="text-base sm:text-xl md:text-2xl font-medium mt-10">
         Arfeelings is a connected workplace <br className="hidden md:block" />
